@@ -1,0 +1,4 @@
+﻿  TallyProgram.cpp
+c:\users\chanto\documents\github\dailyprogrammer\tallyprogram\tallyprogram\tallyprogram\tallyprogram.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\chanto\documents\github\dailyprogrammer\tallyprogram\tallyprogram\tallyprogram\tallyprogram.cpp(26): warning C4101: 'temp': unreferenced local variable
+  TallyProgram.vcxproj -> C:\Users\Chanto\Documents\GitHub\DailyProgrammer\TallyProgram\TallyProgram\Debug\TallyProgram.exe
